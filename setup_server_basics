@@ -1,0 +1,8 @@
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install git
+sudo apt-get install python-setuptools
+sudo apt-get install build-essential
+sudo apt install python-pip
+pip install --upgrade pip
+sudo apt-get install cmake
