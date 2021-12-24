@@ -12,3 +12,4 @@ sudo apt install -y python-pip
 pip install --upgrade pip
 sudo apt-get install -y cmake
 sudo update-alternatives --config editor
+sudo apt install ncdu
