@@ -10,6 +10,7 @@ sudo apt-get install -y python-setuptools
 sudo apt-get install -y build-essential
 sudo apt install htop -y
 sudo apt install -y python-pip
+sudo apt install wget -y
 pip install --upgrade pip
 sudo apt-get install -y cmake
 sudo update-alternatives --config editor
