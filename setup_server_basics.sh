@@ -15,6 +15,7 @@ pip install --upgrade pip
 sudo apt-get install -y cmake
 sudo update-alternatives --config editor
 sudo apt install ncdu
+source ~/.zshrc
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 ~/.fzf/install
 sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
