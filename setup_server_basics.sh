@@ -2,6 +2,7 @@ sudo apt install wget -y
 wget https://raw.githubusercontent.com/Suhail/personal-tools/master/.vimrc
 wget https://raw.githubusercontent.com/Suhail/personal-tools/master/.gitconfig
 wget https://raw.githubusercontent.com/Suhail/personal-tools/master/.tmux.conf
+tmux source ~/.tmux.conf
 sudo apt-get update
 sudo apt-get install apt-file -y
 sudo apt-file update -y
