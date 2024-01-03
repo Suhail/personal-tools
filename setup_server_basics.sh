@@ -11,7 +11,7 @@ sudo apt-get install -y git
 sudo apt-get install -y python-setuptools
 sudo apt-get install -y build-essential
 sudo apt install htop -y
-sudo apt install -y python-pip
+sudo apt install python3-pip
 sudo apt install tree
 pip install --upgrade pip
 sudo apt-get install -y cmake
