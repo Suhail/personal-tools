@@ -13,6 +13,7 @@ sudo apt-get install -y build-essential
 sudo apt install htop -y
 sudo apt install python3-pip
 sudo apt install tree
+sudo apt install git-lfs
 pip install --upgrade pip
 sudo apt-get install -y cmake
 sudo update-alternatives --install /usr/bin/editor editor /usr/local/bin/vim && sudo update-alternatives --set editor /usr/local/bin/vim
